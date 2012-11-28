@@ -14,7 +14,7 @@
 using namespace std;
 
 
-int main() {
+int MAIN() {
 
 	cout.setf(ios_base::right);
 
