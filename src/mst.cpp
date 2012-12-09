@@ -29,16 +29,6 @@ Begin
 End
  */
 
-//int main(int argc, char **argv) {
-//	// leer los vértices
-//
-//	// generar vector de dist
-//
-//	// generar vector de parent
-//
-//
-//}
-
 
 #include <algorithm>
 #include <fstream>
